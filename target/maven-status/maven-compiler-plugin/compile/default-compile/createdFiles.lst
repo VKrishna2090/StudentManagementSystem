@@ -1,0 +1,13 @@
+com\example\StudentManager.class
+com\example\MainFrame.class
+com\example\frames\RequestUpdateFrame.class
+com\example\frames\RequestDeleteFrame.class
+com\example\SplashFrame$1.class
+com\example\frames\ChartsFrame.class
+com\example\SplashFrame.class
+com\example\db\Validations.class
+com\example\frames\UpdateFrame.class
+com\example\frames\AddFrame.class
+com\example\frames\ViewFrame.class
+com\example\db\DbHandler.class
+com\example\db\Student.class
